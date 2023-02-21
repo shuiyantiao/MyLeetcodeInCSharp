@@ -5,7 +5,9 @@ VisualStudioVersion = 17.4.33213.308
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyLeetcodeInCSharp", "MyLeetcodeInCSharp\MyLeetcodeInCSharp.csproj", "{A0C56501-257C-43AB-BE7D-D85EE5228C2E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeTest", "CodeTest\CodeTest.csproj", "{35C1C051-EF7F-430D-8676-2DCF89986C3E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CodeTest", "CodeTest\CodeTest.csproj", "{35C1C051-EF7F-430D-8676-2DCF89986C3E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnswerLib", "AnswerLib\AnswerLib.csproj", "{3DC21F3D-E20A-4BEB-A23F-4633AB8F3FA9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{35C1C051-EF7F-430D-8676-2DCF89986C3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{35C1C051-EF7F-430D-8676-2DCF89986C3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{35C1C051-EF7F-430D-8676-2DCF89986C3E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3DC21F3D-E20A-4BEB-A23F-4633AB8F3FA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DC21F3D-E20A-4BEB-A23F-4633AB8F3FA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DC21F3D-E20A-4BEB-A23F-4633AB8F3FA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DC21F3D-E20A-4BEB-A23F-4633AB8F3FA9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

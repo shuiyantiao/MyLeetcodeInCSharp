@@ -1,4 +1,4 @@
-﻿namespace MyLeetcodeInCSharp._1_100
+﻿namespace AnswerLib._1_100
 {
     public class _1
     {

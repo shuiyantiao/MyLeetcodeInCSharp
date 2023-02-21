@@ -1,7 +1,7 @@
-﻿namespace MyLeetcodeInCSharp._1_100.Tests
+﻿namespace AnswerLib._1_100.Tests
 {
     [TestClass()]
-    public class UnitTest1
+    public class _1Tests
     {
         [TestMethod()]
         public void TwoSumTest1()
